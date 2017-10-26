@@ -1,6 +1,6 @@
 # Problem-set-Jupyter-pyplot-and-numpy
 
-## These problems relate to Jupyter, numpy, and pyplot. We will use the famous iris data set. Save your work as a single Jupyter notebook file in a GitHub repository. Include any required data files, a README, and a gitignore file in the repository.
+### These problems relate to Jupyter, numpy, and pyplot. We will use the famous iris data set. Save your work as a single Jupyter notebook file in a GitHub repository. Include any required data files, a README, and a gitignore file in the repository.
 
 ### 1. Get and load the data
 
